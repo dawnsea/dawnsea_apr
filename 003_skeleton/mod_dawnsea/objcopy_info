@@ -1,0 +1,594 @@
+BFD header file version (GNU Binutils for Ubuntu) 2.24
+elf64-x86-64
+ (header little endian, data little endian)
+  i386
+elf32-i386
+ (header little endian, data little endian)
+  i386
+elf32-x86-64
+ (header little endian, data little endian)
+  i386
+a.out-i386-linux
+ (header little endian, data little endian)
+  m68k
+  sparc
+  i386
+  arm
+pei-i386
+ (header little endian, data little endian)
+  i386
+pei-x86-64
+ (header little endian, data little endian)
+  i386
+elf64-l1om
+ (header little endian, data little endian)
+  l1om
+elf64-k1om
+ (header little endian, data little endian)
+  k1om
+elf64-little
+ (header little endian, data little endian)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+elf64-big
+ (header big endian, data big endian)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+elf32-little
+ (header little endian, data little endian)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+elf32-big
+ (header big endian, data big endian)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+elf64-littleaarch64
+ (header little endian, data little endian)
+  aarch64
+elf64-bigaarch64
+ (header big endian, data big endian)
+  aarch64
+elf32-littleaarch64
+ (header little endian, data little endian)
+  aarch64
+elf32-bigaarch64
+ (header big endian, data big endian)
+  aarch64
+elf32-littlearm
+ (header little endian, data little endian)
+  arm
+elf32-bigarm
+ (header big endian, data big endian)
+  arm
+elf64-alpha
+ (header little endian, data little endian)
+  alpha
+ecoff-littlealpha
+ (header little endian, data little endian)
+  alpha
+elf32-m32r-linux
+ (header big endian, data big endian)
+  m32r
+elf32-m32rle-linux
+ (header little endian, data little endian)
+  m32r
+elf32-m68k
+ (header big endian, data big endian)
+  m68k
+a.out-m68k-linux
+ (header big endian, data big endian)
+  m68k
+  sparc
+  i386
+  arm
+coff-m68k
+ (header big endian, data big endian)
+  m68k
+versados
+ (header big endian, data big endian)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+ieee
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+a.out-zero-big
+ (header big endian, data big endian)
+  m68k
+  sparc
+elf32-powerpc
+ (header big endian, data big endian)
+  powerpc:common64
+aixcoff-rs6000
+ (header big endian, data big endian)
+  powerpc:common64
+  rs6000:6000
+elf32-powerpcle
+ (header little endian, data little endian)
+  powerpc:common64
+ppcboot
+ (header little endian, data big endian)
+  powerpc:common64
+elf64-powerpc
+ (header big endian, data big endian)
+  powerpc:common64
+elf64-powerpcle
+ (header little endian, data little endian)
+  powerpc:common64
+aixcoff64-rs6000
+ (header big endian, data big endian)
+  powerpc:common64
+  rs6000:6000
+aix5coff64-rs6000
+ (header big endian, data big endian)
+  powerpc:common64
+  rs6000:6000
+elf64-s390
+ (header big endian, data big endian)
+  s390:64-bit
+elf32-s390
+ (header big endian, data big endian)
+  s390:64-bit
+elf32-shbig-linux
+ (header big endian, data big endian)
+  sh
+elf32-sh-linux
+ (header little endian, data little endian)
+  sh
+elf32-sh64-linux
+ (header little endian, data little endian)
+  sh
+elf32-sh64big-linux
+ (header big endian, data big endian)
+  sh
+elf64-sh64-linux
+ (header little endian, data little endian)
+  sh
+elf64-sh64big-linux
+ (header big endian, data big endian)
+  sh
+elf32-sparc
+ (header big endian, data big endian)
+  sparc
+a.out-sparc-linux
+ (header little endian, data little endian)
+  m68k
+  sparc
+  i386
+  arm
+elf64-sparc
+ (header big endian, data big endian)
+  sparc
+a.out-sunos-big
+ (header big endian, data big endian)
+  m68k
+  sparc
+elf32-spu
+ (header big endian, data big endian)
+  spu:256K
+pe-x86-64
+ (header little endian, data little endian)
+  i386
+pe-i386
+ (header little endian, data little endian)
+  i386
+plugin
+ (header little endian, data little endian)
+srec
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+symbolsrec
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+verilog
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+tekhex
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+binary
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+ihex
+ (header endianness unknown, data endianness unknown)
+  m68k
+  sparc
+  spu:256K
+  i386
+  l1om
+  k1om
+  plugin
+  powerpc:common64
+  rs6000:6000
+  sh
+  alpha
+  arm
+  m32r
+  s390:64-bit
+  aarch64
+
+               elf64-x86-64 elf32-i386 elf32-x86-64 a.out-i386-linux pei-i386 
+          m68k ------------ ---------- ------------ a.out-i386-linux -------- 
+         sparc ------------ ---------- ------------ a.out-i386-linux -------- 
+      spu:256K ------------ ---------- ------------ ---------------- -------- 
+          i386 elf64-x86-64 elf32-i386 elf32-x86-64 a.out-i386-linux pei-i386 
+          l1om ------------ ---------- ------------ ---------------- -------- 
+          k1om ------------ ---------- ------------ ---------------- -------- 
+        plugin ------------ ---------- ------------ ---------------- -------- 
+powerpc:common64 ------------ ---------- ------------ ---------------- -------- 
+   rs6000:6000 ------------ ---------- ------------ ---------------- -------- 
+            sh ------------ ---------- ------------ ---------------- -------- 
+         alpha ------------ ---------- ------------ ---------------- -------- 
+           arm ------------ ---------- ------------ a.out-i386-linux -------- 
+          m32r ------------ ---------- ------------ ---------------- -------- 
+   s390:64-bit ------------ ---------- ------------ ---------------- -------- 
+       aarch64 ------------ ---------- ------------ ---------------- -------- 
+
+               pei-x86-64 elf64-l1om elf64-k1om elf64-little elf64-big 
+          m68k ---------- ---------- ---------- elf64-little elf64-big 
+         sparc ---------- ---------- ---------- elf64-little elf64-big 
+      spu:256K ---------- ---------- ---------- elf64-little elf64-big 
+          i386 pei-x86-64 ---------- ---------- elf64-little elf64-big 
+          l1om ---------- elf64-l1om ---------- elf64-little elf64-big 
+          k1om ---------- ---------- elf64-k1om elf64-little elf64-big 
+        plugin ---------- ---------- ---------- elf64-little elf64-big 
+powerpc:common64 ---------- ---------- ---------- elf64-little elf64-big 
+   rs6000:6000 ---------- ---------- ---------- elf64-little elf64-big 
+            sh ---------- ---------- ---------- elf64-little elf64-big 
+         alpha ---------- ---------- ---------- elf64-little elf64-big 
+           arm ---------- ---------- ---------- elf64-little elf64-big 
+          m32r ---------- ---------- ---------- elf64-little elf64-big 
+   s390:64-bit ---------- ---------- ---------- elf64-little elf64-big 
+       aarch64 ---------- ---------- ---------- elf64-little elf64-big 
+
+               elf32-little elf32-big elf64-littleaarch64 elf64-bigaarch64 
+          m68k elf32-little elf32-big ------------------- ---------------- 
+         sparc elf32-little elf32-big ------------------- ---------------- 
+      spu:256K elf32-little elf32-big ------------------- ---------------- 
+          i386 elf32-little elf32-big ------------------- ---------------- 
+          l1om elf32-little elf32-big ------------------- ---------------- 
+          k1om elf32-little elf32-big ------------------- ---------------- 
+        plugin elf32-little elf32-big ------------------- ---------------- 
+powerpc:common64 elf32-little elf32-big ------------------- ---------------- 
+   rs6000:6000 elf32-little elf32-big ------------------- ---------------- 
+            sh elf32-little elf32-big ------------------- ---------------- 
+         alpha elf32-little elf32-big ------------------- ---------------- 
+           arm elf32-little elf32-big ------------------- ---------------- 
+          m32r elf32-little elf32-big ------------------- ---------------- 
+   s390:64-bit elf32-little elf32-big ------------------- ---------------- 
+       aarch64 elf32-little elf32-big elf64-littleaarch64 elf64-bigaarch64 
+
+               elf32-littleaarch64 elf32-bigaarch64 elf32-littlearm 
+          m68k ------------------- ---------------- --------------- 
+         sparc ------------------- ---------------- --------------- 
+      spu:256K ------------------- ---------------- --------------- 
+          i386 ------------------- ---------------- --------------- 
+          l1om ------------------- ---------------- --------------- 
+          k1om ------------------- ---------------- --------------- 
+        plugin ------------------- ---------------- --------------- 
+powerpc:common64 ------------------- ---------------- --------------- 
+   rs6000:6000 ------------------- ---------------- --------------- 
+            sh ------------------- ---------------- --------------- 
+         alpha ------------------- ---------------- --------------- 
+           arm ------------------- ---------------- elf32-littlearm 
+          m32r ------------------- ---------------- --------------- 
+   s390:64-bit ------------------- ---------------- --------------- 
+       aarch64 elf32-littleaarch64 elf32-bigaarch64 --------------- 
+
+               elf32-bigarm elf64-alpha ecoff-littlealpha elf32-m32r-linux 
+          m68k ------------ ----------- ----------------- ---------------- 
+         sparc ------------ ----------- ----------------- ---------------- 
+      spu:256K ------------ ----------- ----------------- ---------------- 
+          i386 ------------ ----------- ----------------- ---------------- 
+          l1om ------------ ----------- ----------------- ---------------- 
+          k1om ------------ ----------- ----------------- ---------------- 
+        plugin ------------ ----------- ----------------- ---------------- 
+powerpc:common64 ------------ ----------- ----------------- ---------------- 
+   rs6000:6000 ------------ ----------- ----------------- ---------------- 
+            sh ------------ ----------- ----------------- ---------------- 
+         alpha ------------ elf64-alpha ecoff-littlealpha ---------------- 
+           arm elf32-bigarm ----------- ----------------- ---------------- 
+          m32r ------------ ----------- ----------------- elf32-m32r-linux 
+   s390:64-bit ------------ ----------- ----------------- ---------------- 
+       aarch64 ------------ ----------- ----------------- ---------------- 
+
+               elf32-m32rle-linux elf32-m68k a.out-m68k-linux coff-m68k 
+          m68k ------------------ elf32-m68k a.out-m68k-linux coff-m68k 
+         sparc ------------------ ---------- a.out-m68k-linux --------- 
+      spu:256K ------------------ ---------- ---------------- --------- 
+          i386 ------------------ ---------- a.out-m68k-linux --------- 
+          l1om ------------------ ---------- ---------------- --------- 
+          k1om ------------------ ---------- ---------------- --------- 
+        plugin ------------------ ---------- ---------------- --------- 
+powerpc:common64 ------------------ ---------- ---------------- --------- 
+   rs6000:6000 ------------------ ---------- ---------------- --------- 
+            sh ------------------ ---------- ---------------- --------- 
+         alpha ------------------ ---------- ---------------- --------- 
+           arm ------------------ ---------- a.out-m68k-linux --------- 
+          m32r elf32-m32rle-linux ---------- ---------------- --------- 
+   s390:64-bit ------------------ ---------- ---------------- --------- 
+       aarch64 ------------------ ---------- ---------------- --------- 
+
+               versados ieee a.out-zero-big elf32-powerpc aixcoff-rs6000 
+          m68k versados ieee a.out-zero-big ------------- -------------- 
+         sparc versados ieee a.out-zero-big ------------- -------------- 
+      spu:256K versados ieee -------------- ------------- -------------- 
+          i386 versados ieee -------------- ------------- -------------- 
+          l1om versados ieee -------------- ------------- -------------- 
+          k1om versados ieee -------------- ------------- -------------- 
+        plugin versados ieee -------------- ------------- -------------- 
+powerpc:common64 versados ieee -------------- elf32-powerpc aixcoff-rs6000 
+   rs6000:6000 versados ieee -------------- ------------- aixcoff-rs6000 
+            sh versados ieee -------------- ------------- -------------- 
+         alpha versados ieee -------------- ------------- -------------- 
+           arm versados ieee -------------- ------------- -------------- 
+          m32r versados ieee -------------- ------------- -------------- 
+   s390:64-bit versados ieee -------------- ------------- -------------- 
+       aarch64 versados ieee -------------- ------------- -------------- 
+
+               elf32-powerpcle ppcboot elf64-powerpc elf64-powerpcle 
+          m68k --------------- ------- ------------- --------------- 
+         sparc --------------- ------- ------------- --------------- 
+      spu:256K --------------- ------- ------------- --------------- 
+          i386 --------------- ------- ------------- --------------- 
+          l1om --------------- ------- ------------- --------------- 
+          k1om --------------- ------- ------------- --------------- 
+        plugin --------------- ------- ------------- --------------- 
+powerpc:common64 elf32-powerpcle ppcboot elf64-powerpc elf64-powerpcle 
+   rs6000:6000 --------------- ------- ------------- --------------- 
+            sh --------------- ------- ------------- --------------- 
+         alpha --------------- ------- ------------- --------------- 
+           arm --------------- ------- ------------- --------------- 
+          m32r --------------- ------- ------------- --------------- 
+   s390:64-bit --------------- ------- ------------- --------------- 
+       aarch64 --------------- ------- ------------- --------------- 
+
+               aixcoff64-rs6000 aix5coff64-rs6000 elf64-s390 elf32-s390 
+          m68k ---------------- ----------------- ---------- ---------- 
+         sparc ---------------- ----------------- ---------- ---------- 
+      spu:256K ---------------- ----------------- ---------- ---------- 
+          i386 ---------------- ----------------- ---------- ---------- 
+          l1om ---------------- ----------------- ---------- ---------- 
+          k1om ---------------- ----------------- ---------- ---------- 
+        plugin ---------------- ----------------- ---------- ---------- 
+powerpc:common64 aixcoff64-rs6000 aix5coff64-rs6000 ---------- ---------- 
+   rs6000:6000 aixcoff64-rs6000 aix5coff64-rs6000 ---------- ---------- 
+            sh ---------------- ----------------- ---------- ---------- 
+         alpha ---------------- ----------------- ---------- ---------- 
+           arm ---------------- ----------------- ---------- ---------- 
+          m32r ---------------- ----------------- ---------- ---------- 
+   s390:64-bit ---------------- ----------------- elf64-s390 elf32-s390 
+       aarch64 ---------------- ----------------- ---------- ---------- 
+
+               elf32-shbig-linux elf32-sh-linux elf32-sh64-linux 
+          m68k ----------------- -------------- ---------------- 
+         sparc ----------------- -------------- ---------------- 
+      spu:256K ----------------- -------------- ---------------- 
+          i386 ----------------- -------------- ---------------- 
+          l1om ----------------- -------------- ---------------- 
+          k1om ----------------- -------------- ---------------- 
+        plugin ----------------- -------------- ---------------- 
+powerpc:common64 ----------------- -------------- ---------------- 
+   rs6000:6000 ----------------- -------------- ---------------- 
+            sh elf32-shbig-linux elf32-sh-linux elf32-sh64-linux 
+         alpha ----------------- -------------- ---------------- 
+           arm ----------------- -------------- ---------------- 
+          m32r ----------------- -------------- ---------------- 
+   s390:64-bit ----------------- -------------- ---------------- 
+       aarch64 ----------------- -------------- ---------------- 
+
+               elf32-sh64big-linux elf64-sh64-linux elf64-sh64big-linux 
+          m68k ------------------- ---------------- ------------------- 
+         sparc ------------------- ---------------- ------------------- 
+      spu:256K ------------------- ---------------- ------------------- 
+          i386 ------------------- ---------------- ------------------- 
+          l1om ------------------- ---------------- ------------------- 
+          k1om ------------------- ---------------- ------------------- 
+        plugin ------------------- ---------------- ------------------- 
+powerpc:common64 ------------------- ---------------- ------------------- 
+   rs6000:6000 ------------------- ---------------- ------------------- 
+            sh elf32-sh64big-linux elf64-sh64-linux elf64-sh64big-linux 
+         alpha ------------------- ---------------- ------------------- 
+           arm ------------------- ---------------- ------------------- 
+          m32r ------------------- ---------------- ------------------- 
+   s390:64-bit ------------------- ---------------- ------------------- 
+       aarch64 ------------------- ---------------- ------------------- 
+
+               elf32-sparc a.out-sparc-linux elf64-sparc a.out-sunos-big 
+          m68k ----------- a.out-sparc-linux ----------- a.out-sunos-big 
+         sparc elf32-sparc a.out-sparc-linux elf64-sparc a.out-sunos-big 
+      spu:256K ----------- ----------------- ----------- --------------- 
+          i386 ----------- a.out-sparc-linux ----------- --------------- 
+          l1om ----------- ----------------- ----------- --------------- 
+          k1om ----------- ----------------- ----------- --------------- 
+        plugin ----------- ----------------- ----------- --------------- 
+powerpc:common64 ----------- ----------------- ----------- --------------- 
+   rs6000:6000 ----------- ----------------- ----------- --------------- 
+            sh ----------- ----------------- ----------- --------------- 
+         alpha ----------- ----------------- ----------- --------------- 
+           arm ----------- a.out-sparc-linux ----------- --------------- 
+          m32r ----------- ----------------- ----------- --------------- 
+   s390:64-bit ----------- ----------------- ----------- --------------- 
+       aarch64 ----------- ----------------- ----------- --------------- 
+
+               elf32-spu pe-x86-64 pe-i386 plugin srec symbolsrec verilog 
+          m68k --------- --------- ------- ------ srec symbolsrec verilog 
+         sparc --------- --------- ------- ------ srec symbolsrec verilog 
+      spu:256K elf32-spu --------- ------- ------ srec symbolsrec verilog 
+          i386 --------- pe-x86-64 pe-i386 ------ srec symbolsrec verilog 
+          l1om --------- --------- ------- ------ srec symbolsrec verilog 
+          k1om --------- --------- ------- ------ srec symbolsrec verilog 
+        plugin --------- --------- ------- ------ srec symbolsrec verilog 
+powerpc:common64 --------- --------- ------- ------ srec symbolsrec verilog 
+   rs6000:6000 --------- --------- ------- ------ srec symbolsrec verilog 
+            sh --------- --------- ------- ------ srec symbolsrec verilog 
+         alpha --------- --------- ------- ------ srec symbolsrec verilog 
+           arm --------- --------- ------- ------ srec symbolsrec verilog 
+          m32r --------- --------- ------- ------ srec symbolsrec verilog 
+   s390:64-bit --------- --------- ------- ------ srec symbolsrec verilog 
+       aarch64 --------- --------- ------- ------ srec symbolsrec verilog 
+
+               tekhex binary ihex 
+          m68k tekhex binary ihex 
+         sparc tekhex binary ihex 
+      spu:256K tekhex binary ihex 
+          i386 tekhex binary ihex 
+          l1om tekhex binary ihex 
+          k1om tekhex binary ihex 
+        plugin tekhex binary ihex 
+powerpc:common64 tekhex binary ihex 
+   rs6000:6000 tekhex binary ihex 
+            sh tekhex binary ihex 
+         alpha tekhex binary ihex 
+           arm tekhex binary ihex 
+          m32r tekhex binary ihex 
+   s390:64-bit tekhex binary ihex 
+       aarch64 tekhex binary ihex 
